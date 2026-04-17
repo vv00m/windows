@@ -2,7 +2,7 @@
   "name": "Windows 10 LTSC",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "xp"
+    "VERSION": "030"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
